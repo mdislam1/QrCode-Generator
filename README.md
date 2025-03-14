@@ -1,4 +1,3 @@
-```markdown
 # QR Resume Generator
 
 This Python script generates a QR code that links to an online resume PDF. It also adds a text label below the QR code, prompting users to scan it to view the resume. The final image is saved as `qrcode.png`.
@@ -98,4 +97,3 @@ GitHub: https://github.com/mdislam1
 ---
 
 **Happy Coding!** 🚀
-```
