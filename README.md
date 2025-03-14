@@ -1,4 +1,4 @@
-# QR Resume Generator
+# QR Code Generator
 
 This Python script generates a QR code that links to an online resume PDF. It also adds a text label below the QR code, prompting users to scan it to view the resume. The final image is saved as `qrcode.png`.
 
@@ -33,8 +33,8 @@ pip install qrcode[pil]
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/qr-resume.git
-cd qr-resume
+git clone [https://github.com/your-username/qr-resume.git](https://github.com/mdislam1/qr-code-generator.git)
+cd qr_code
 ```
 
 2. Modify the script to update the resume link or customize the text and colors:
@@ -47,7 +47,7 @@ text = "Scan to view my resume"  # Customize the text
 3. Run the script:
 
 ```bash
-python qrcodegen.py
+python qr_code.py
 ```
 
 4. The generated QR code image (`qrcode.png`) will be saved in the current directory and displayed on your screen.
